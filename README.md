@@ -3,3 +3,4 @@
 
 # Проекты Яндекс практикум
 
+credit_project/credit_pr.ipynb
