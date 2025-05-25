@@ -6,3 +6,4 @@
 | Проект | Задачи |
 | :-----------| :----------- | 
 | [Музыка Москвы и Санкт-Петербурга](https://github.com/Unerster/WAY_DS/blob/b7e6311e54a1fe8238d0b52348578ca00ba044ef/music_project/pr_music.ipynb)| Использовать базовые знания Python и библиотеки pandas. Проверить три гипотезы.|
+| [Музыка Москвы и Санкт-Петербурга](https://github.com/Unerster/WAY_DS/blob/b7e6311e54a1fe8238d0b52348578ca00ba044ef/music_project/pr_music.ipynb)| Использовать базовые знания Python и библиотеки pandas. Проверить три гипотезы.|
